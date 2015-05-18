@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 - When you initialize a repository git creates the meta data you will need to
   make commits. It needs to be done because without 'git init' you wont have 
   the power of git.
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+- The staging area is different from the working directory and the repository
+  because all it does is hold the files that will soon be made into a commit.
+  The value it offers is that you do not have to add all of the files in your
+  working directory to a commit.
