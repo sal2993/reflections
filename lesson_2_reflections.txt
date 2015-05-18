@@ -8,3 +8,8 @@ repository? What value do you think it offers?
   because all it does is hold the files that will soon be made into a commit.
   The value it offers is that you do not have to add all of the files in your
   working directory to a commit.
+How can you use the staging area to make sure you have one commit per logical
+change?
+- You can use the staging area to make sure you have one commit per logical
+  change by adding the logical changes you made to files to the staging area
+  then commiting the changes.
