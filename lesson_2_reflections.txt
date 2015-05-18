@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+- When you initialize a repository git creates the meta data you will need to
+  make commits. It needs to be done because without 'git init' you wont have 
+  the power of git.
