@@ -13,3 +13,19 @@ change?
 - You can use the staging area to make sure you have one commit per logical
   change by adding the logical changes you made to files to the staging area
   then commiting the changes.
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+- Branches would help keeping your history orginized by keeping different
+  versions of your code. For example if you wanted to add a completly different
+  new feature to some code, you could deviate from the master by branching.
+  In the new branch you can go to town on your crazy new feature without
+  disrupting the master.
+How do the diagrams help you visualize the branch structure?
+- Diagrams help visualize branch structure by physically being able to see the 
+  history of the whole tree.
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+- The result of merging two branches is that both the code of both branches
+  will fuse into one branch. All the commits from both branches will now belong
+  to one branch. We represent it in the diagram the way we do because both
+  branches are being merged into one so logically we should depict it as such.
