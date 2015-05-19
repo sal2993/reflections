@@ -29,3 +29,9 @@ the diagram the way we do?
   will fuse into one branch. All the commits from both branches will now belong
   to one branch. We represent it in the diagram the way we do because both
   branches are being merged into one so logically we should depict it as such.
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+- The pros are that if the code is simple then it is really a no brainer for
+  git to merge the two branches together. If two different branches make
+  similar changes to the file then git makes a merge conflict which can be
+  cumbersome.
