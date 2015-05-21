@@ -1,5 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work
-local?
+local? 
 
     The remote repository has huge advantages when a person is colaberating on a
     project. It is insurmountably useful to work together with multiple using a
